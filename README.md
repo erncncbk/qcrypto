@@ -1,3 +1,8 @@
+If my code is helpful to you, I really appreceiate if you buy me a coffee 🙇🏻‍☕️ 
+
+[![buymecoffee](https://user-images.githubusercontent.com/43441567/149409893-4e380e53-36df-4de6-b5c0-482f837ab4dc.gif)](https://www.buymeacoffee.com/erncncbk)
+
+
 
 # Q Crypto
 
@@ -18,3 +23,6 @@ Sample Flutter cryptocurrency project that aim to how to combine and integrate  
   - create .env file and add YOUR_API_KEY
 
 ![](assets/qcrypto.png)
+
+
+
